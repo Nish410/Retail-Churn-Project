@@ -4,7 +4,7 @@ This is a complete, end-to-end data analytics project developed as part of my 4t
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - Interactive UI: Built with Streamlit for a user-friendly experience.
 - **Exploratory Data Analysis (EDA):** In-depth analysis of sales, products, and customer behavior in the Jupyter Notebook.
